@@ -1,0 +1,44 @@
+========================================
+  DESAFIO ZELDINHA - INSTRUÇÕES RÁPIDAS
+  José Wagner Blanco Junior
+========================================
+
+1. Extraia este ZIP em qualquer pasta.
+
+2. Abra o Unity Hub e clique em "Add" → selecione a pasta "desafio-zeldinha".
+
+3. Use Unity 2021.3 LTS ou 2022.3 LTS (recomendado).
+
+4. Após abrir o projeto:
+   - Importe os assets oficiais da DIO (link no README.md).
+   - Ou copie as pastas de Assets do projeto original Zeldinha da DIO.
+
+5. Os scripts melhorados estão em:
+   Assets/Scripts/
+   ├── Player/
+   ├── Enemies/
+   ├── Boss/
+   ├── Items/
+   ├── Systems/
+   ├── Story/
+   └── UI/
+
+6. Configure as tags:
+   - Player (no personagem)
+   - Enemy (nos monstros)
+
+7. Crie a cena principal e arraste:
+   - Player com PlayerController + PlayerStats + PlayerCombat + Inventory
+   - GameManager (objeto vazio)
+   - HUD Canvas com HUDController
+   - DialogueSystem
+
+8. Para o Boss: adicione o LichBossController no prefab do Lich.
+
+9. Teste e corrija eventuais erros de referência no Inspector.
+
+10. Suba para o GitHub com os comandos do README.
+
+Qualquer erro de código, me chame que corrigimos juntos!
+
+Per Aspera, Ad Astra!

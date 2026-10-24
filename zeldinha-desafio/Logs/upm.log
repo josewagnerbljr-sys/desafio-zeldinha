@@ -1,0 +1,4 @@
+[2026-10-24T02:45:38.171Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.6.4f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 41440 --ipc-path Unity-Upm-41440 -l 2 --log-file D:\\desafio-zeldinha-completo\\zeldinha-desafio/Logs/upm.log
+[2026-10-24T02:45:38.521Z][INFO] IPC server started (IPC path=Unity-Upm-41440).
+[2026-10-24T02:45:38.521Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-41440.
+[2026-10-24T02:47:58.321Z][INFO] Shutting down UnityPackageManager.exe: parent process [24672] is no longer running.
